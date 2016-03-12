@@ -1,5 +1,5 @@
 # Linear Regression on Suburb Boston Housing Dataset
-#Last Modified: 8th July '14
+#Last Modified: 12th March '16
 
 #Clear workspace
 rm(list = ls(all.names = TRUE))
